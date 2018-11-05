@@ -10,4 +10,4 @@ hs_err_pid*
 */.settings
 */.project
 *.classpath
-*.log
+*.log 
